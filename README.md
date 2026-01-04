@@ -1,5 +1,4 @@
 # California-house-price-prediction
-Machine Learning Project
 This project is my first Machine Learning model where I built a system to predict house prices using the California Housing Dataset.
 The model uses the Random Forest Regressor algorithm to learn patterns from housing features such as location, population, income, and number of rooms.
 
